@@ -1,16 +1,19 @@
 # IBM Data Science Professional Certificate - Capstone Project
-Author: Raz Muhammad
+**Author:** Raz Muhammad  
+**Date:** August 31, 2024
 
-August 31, 2024
+---
 
-**Project Background and Context**
-​
-SpaceX is holding a remarkable position in the commercial space industry as a result of the low cost of launching a rocket. According to the company, the standard payment plan for a Falcon 9 launch is $62 million; while the cost of other providers exceeds $165 million. Much of the savings is because SpaceX can reuse the rocket's first stage.
+## **Project Background and Context**
 
-**Problems Analyzed​**
+SpaceX has established itself as a leader in the commercial space industry by significantly reducing the cost of rocket launches. The company charges $62 million for a Falcon 9 launch, a fraction of the $165 million charged by other providers. This cost-efficiency is largely due to SpaceX's ability to reuse the rocket's first stage.
 
-What determines whether a rocket will land successfully?​
+---
 
-Which variables have the greatest influence on the landing success rate?​
+## **Problems Analyzed**
 
-Can we estimate the cost of a launch by predicting whether the first stage will land?
+1. **What determines whether a rocket will land successfully?**
+
+2. **Which variables have the greatest influence on the landing success rate?**
+
+3. **Can we estimate the cost of a launch by predicting whether the first stage will land?**
